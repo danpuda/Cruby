@@ -6,3 +6,7 @@ if score >= 95 && score <= 99
 end
 
 puts "コード整理"
+
+puts "コード追加"
+
+puts　"コード２"
